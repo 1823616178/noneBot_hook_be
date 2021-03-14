@@ -1,0 +1,4 @@
+# ignore target folder
+venv/
+.idea/
+__pycache__/
